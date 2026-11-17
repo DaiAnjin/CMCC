@@ -4,7 +4,7 @@ Official PyTorch implementation of ***CMCC: Detecting cropland changes via cross
 
 > **Note:** *This paper is currently under review at IEEE TGRS (Transactions on Geoscience and Remote Sensing). The full source code will be publicly released upon the acceptance/publication of the paper.*
 
-![Framework](./figures/CMC.jpg)
+![Framework](./figures/CMCC.jpg)
 
 ## 📊 Dataset
 The **CroplandCD** dataset is now publicly available.
